@@ -5,3 +5,5 @@
 Para ejecutar el programa , debes poner :
   
 ```npm install react```
+
+programa de resgistro 2
